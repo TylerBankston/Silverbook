@@ -2,26 +2,24 @@
 <html ng-app="silverbook">
 <head>
   <link rel="stylesheet" type="text/css" href="node_modules/angular/angular-csp.css" />
-  <link rel="stylesheet" type="text/css" href="styles/main.css" />
   <link rel="stylesheet" type="text/css" href="node_modules/angular-material/angular-material.min.css" />
+  <link rel="stylesheet" type="text/css" href="styles/main.css" />
   <title></title>
   <meta charset="utf-8" />
 </head>
 <body>
-    <div class="outer">
-      <div class="middle">
-        <div class="md-inline-form inner"  ng-controller="searchController as vm">
-          <md-content md-theme="docs-dark" layout-gt-sm="row" layout=-padding>
-            <md-input-container>
-              <label>Title</label>
-              <input class="ng-pristine ng-valid md-input ng-not-empty ng-touched" ng-model="vm.query">
-            </md-input-container>
-
-            <p>You are searching for {{vm.query}}</p>
-          </md-content>
-        </div>
+  <div class="outer">
+    <div class="middle">
+      <div class="inner" ng-controller="searchController as vm">
+        <img id="hero" src="images/svg/silverbook.svg" />
+          <md-input-container id="searchContainer">
+            <label>Search the Silverbook</label>
+            <input id="search" type="text" ng-model="vm.query"/>
+          </md-input-container>
+          <p>You are searching for {{vm.query}}</p>
       </div>
     </div>
+  </div>
   <!-- AngularJs -->
   <script src="node_modules/angular/angular.min.js"></script>
   <script src="node_modules/angular-route/angular-route.min.js"></script>

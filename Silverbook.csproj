@@ -9,7 +9,7 @@
     <ProductVersion>
     </ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>{77113849-BC28-4DE1-8A3E-4950AD2439CC}</ProjectGuid>
+    <ProjectGuid>{F3465CC4-4BAB-4277-8DAB-2881FC7CB5F7}</ProjectGuid>
     <ProjectTypeGuids>{349c5851-65df-11da-9384-00065b846f21};{fae04ec0-301f-11d3-bf4b-00c04f79efbc}</ProjectTypeGuids>
     <OutputType>Library</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
@@ -96,6 +96,7 @@
   <ItemGroup>
     <Content Include="app\app.module.js" />
     <Content Include="app\main.js" />
+    <Content Include="images\svg\silverbook.svg" />
     <Content Include="node_modules\angular-animate\angular-animate.js" />
     <Content Include="node_modules\angular-animate\angular-animate.min.js" />
     <Content Include="node_modules\angular-animate\index.js" />

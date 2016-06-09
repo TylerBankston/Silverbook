@@ -31,3 +31,36 @@ C:\Users\Tyler Bankston\Source\Repos\Silverbook\Silverbook\bin\Microsoft.CodeDom
 C:\Users\Tyler Bankston\Source\Repos\Silverbook\Silverbook\obj\Debug\Silverbook.csprojResolveAssemblyReference.cache
 C:\Users\Tyler Bankston\Source\Repos\Silverbook\Silverbook\obj\Debug\Silverbook.dll
 C:\Users\Tyler Bankston\Source\Repos\Silverbook\Silverbook\obj\Debug\Silverbook.pdb
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\ApplicationInsights.config
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\csc.exe
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\vbc.exe
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\VBCSCompiler.exe
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Silverbook.dll.config
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Silverbook.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Silverbook.pdb
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.Web.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.ApplicationInsights.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.Web.xml
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.ApplicationInsights.xml
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\obj\Debug\Silverbook.csprojResolveAssemblyReference.cache
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\obj\Debug\Silverbook.dll
+C:\Users\TWB3\Source\Repos\Silverbook\Silverbook\obj\Debug\Silverbook.pdb
